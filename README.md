@@ -8,4 +8,9 @@ Random artsy projects (this may include art and music) 🎨
 Getting into programming games 🎮  
 And probably poetry-related things 📖  
   
-Hope this will actually turn out to be what's promised above, but we'll see 👀
+What has been done:
+Creative Coding with Shaders
+
+What I'm currently working on:
+Bulding a Song & Story website with Ruby on Rails
+Hacking Furby: Building Furlexa following [this](https://www.raspberrypi.com/news/raspberry-pi-furby-furlexa-voice-assistant/) tutorial
