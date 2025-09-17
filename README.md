@@ -2,7 +2,7 @@
 
 Hi! 
 This is my personal github repo. And here's what you can expect:   
-Linguistics related pojects (Recognition & Synthesis) 👄  
+Linguistics related projects (Recognition & Synthesis) 👄  
 Random artsy projects (this may include visual art and music) 🎨  
 Getting into programming games 🎮  
 And perhaps poetry-related things 📖  
