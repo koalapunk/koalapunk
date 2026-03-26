@@ -13,4 +13,4 @@ What has been done:
 What I'm currently working on:  
 * Building a song & story public database with Ruby on Rails  
 * Hacking Furby: Building Furlexa following [this](https://www.raspberrypi.com/news/raspberry-pi-furby-furlexa-voice-assistant/) tutorial
-* Documenting my projects here https://koalapunk.github.io/ 
+* Documenting my projects here https://thekhaosangel.github.io/ 
